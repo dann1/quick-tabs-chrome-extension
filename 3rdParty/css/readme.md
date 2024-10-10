@@ -10,6 +10,10 @@ into the "Custom CSS" text area at the bottom of the options page.
 
 ![Search Screenshot](./bunnyslippers.png?raw=true)
 
+### Bunnyslippers CSS Wide
+
+![Search Screenshot](./bunnyslippers_wide.png?raw=true)
+
 ### macOS Dark
 
 [![Search Screenshot](./macOS-dark.png)](./macOS-dark.css)
